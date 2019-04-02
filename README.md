@@ -7,7 +7,7 @@
 ## Fonts
 | Key | Value |
 ----|---- 
-| Font | Cica |
+| Font | [Cica](https://github.com/miiton/Cica/releases) |
 | Size | 14 |
 | Line Spacing | .1 |
 
