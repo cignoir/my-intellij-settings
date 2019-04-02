@@ -2,7 +2,7 @@
 
 ## Color Scheme
 
-* DK_Monokai.icls
+* [DK_Monokai.icls](https://github.com/cignoir/my-intellij-settings/blob/master/DK_Monokai.icls)
 
 ## Fonts
 | Key | Value |
