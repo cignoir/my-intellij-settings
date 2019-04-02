@@ -11,6 +11,8 @@
 | Size | 14 |
 | Line Spacing | .1 |
 
+![sample](https://github.com/cignoir/my-intellij-settings/blob/master/sample.png)
+
 ## Keymap
 
 * Eclipse
